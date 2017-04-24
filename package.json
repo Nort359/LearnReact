@@ -4,6 +4,8 @@
   "description": "Learn React",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Nort359/LearnReact/issues"
   },
-  "homepage": "https://github.com/Nort359/LearnReact#readme"
+  "homepage": "https://github.com/Nort359/LearnReact#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
 }
