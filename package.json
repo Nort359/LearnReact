@@ -1,0 +1,24 @@
+{
+  "name": "learnreact",
+  "version": "1.0.0",
+  "description": "Learn React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nort359/LearnReact.git"
+  },
+  "keywords": [
+    "learn",
+    "react",
+    "study"
+  ],
+  "author": "Maxim Prosvirkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nort359/LearnReact/issues"
+  },
+  "homepage": "https://github.com/Nort359/LearnReact#readme"
+}
